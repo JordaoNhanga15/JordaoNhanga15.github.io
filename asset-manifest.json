@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5e33a34.chunk.css",
+    "main.js": "/static/js/main.7ac8f811.chunk.js",
+    "main.js.map": "/static/js/main.7ac8f811.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.20d586d3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.20d586d3.js.map",
+    "static/js/2.a2407a8b.chunk.js": "/static/js/2.a2407a8b.chunk.js",
+    "static/js/2.a2407a8b.chunk.js.map": "/static/js/2.a2407a8b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d5e33a34.chunk.css.map": "/static/css/main.d5e33a34.chunk.css.map",
+    "static/js/2.a2407a8b.chunk.js.LICENSE.txt": "/static/js/2.a2407a8b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Roboto-Light.0cea3982.ttf",
+    "static/media/cover.9b42f220.jpg": "/static/media/cover.9b42f220.jpg",
+    "static/media/eleandro.f5c902a9.jpg": "/static/media/eleandro.f5c902a9.jpg",
+    "static/media/fz.cb09cfe5.jpg": "/static/media/fz.cb09cfe5.jpg",
+    "static/media/gif.e4aab3aa.gif": "/static/media/gif.e4aab3aa.gif",
+    "static/media/pg.81563d58.jpg": "/static/media/pg.81563d58.jpg",
+    "static/media/profile.58f9e630.jpg": "/static/media/profile.58f9e630.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20d586d3.js",
+    "static/js/2.a2407a8b.chunk.js",
+    "static/css/main.d5e33a34.chunk.css",
+    "static/js/main.7ac8f811.chunk.js"
+  ]
+}
