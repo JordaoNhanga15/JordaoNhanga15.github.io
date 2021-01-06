@@ -10,5 +10,8 @@ p svg{
     display: n;
     fill: red;
 }
+nav.menu .icone-logo svg{
+    fill: rgb(29, 161, 242);
+}
 
 /*# sourceMappingURL=main.d5e33a34.chunk.css.map */
